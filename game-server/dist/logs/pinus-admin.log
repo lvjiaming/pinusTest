@@ -1,0 +1,12 @@
+[2020-09-22T14:28:50.818] [INFO] pinus-admin - [master-server-1 mqttServer.js] [MqttServer] listen on 1010
+[2020-09-22T14:28:50.844] [INFO] pinus-admin - [master-server-1 consoleService.js] try to connect master: "master", "127.0.0.1", 1010
+[2020-09-22T14:53:30.662] [INFO] pinus-admin - [master-server-1 mqttServer.js] [MqttServer] listen on 1010
+[2020-09-22T14:53:30.686] [INFO] pinus-admin - [master-server-1 consoleService.js] try to connect master: "master", "127.0.0.1", 1010
+[2020-09-22T14:54:29.130] [INFO] pinus-admin - [master-server-1 mqttServer.js] [MqttServer] listen on 1010
+[2020-09-22T14:54:29.152] [INFO] pinus-admin - [master-server-1 consoleService.js] try to connect master: "master", "127.0.0.1", 1010
+[2020-09-22T14:54:29.769] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 1010
+[2020-09-22T14:55:14.714] [INFO] pinus-admin - [master-server-1 mqttServer.js] [MqttServer] listen on 1010
+[2020-09-22T14:55:14.739] [INFO] pinus-admin - [master-server-1 consoleService.js] try to connect master: "master", "127.0.0.1", 1010
+[2020-09-22T15:07:47.825] [INFO] pinus-admin - [master-server-1 mqttServer.js] [MqttServer] listen on 1010
+[2020-09-22T15:07:47.848] [INFO] pinus-admin - [master-server-1 consoleService.js] try to connect master: "master", "127.0.0.1", 1010
+[2020-09-22T15:07:48.568] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 1010

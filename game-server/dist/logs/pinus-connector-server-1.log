@@ -1,0 +1,20 @@
+[2020-09-22T14:54:29.739] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T14:54:29.745] [DEBUG] pinus - [connector-server-1 protobuf.js] ProtobufComponent options: {}
+[2020-09-22T14:54:29.750] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T14:54:29.751] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T14:54:29.765] [WARN] logger - [connector-server-1 console] after start all server, use route dictionary :
+ connector.entryHandler.entry
+connector.entryHandler.publish
+connector.entryHandler.subscribe
+[2020-09-22T14:54:29.823] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T14:54:29.825] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T14:54:29.825] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 84 ms
+[2020-09-22T15:07:48.553] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T15:07:48.560] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T15:07:48.560] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T15:07:48.624] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T15:07:48.627] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T15:07:48.627] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 72 ms
+[2020-09-22T15:07:58.148] [DEBUG] pinus - [connector-server-1 connector.js] [connector-server-1] getSession session is created with session id: 1
+[2020-09-22T15:07:58.693] [DEBUG] pinus - [connector-server-1 connector.js] [connector-server-1] getSession session is created with session id: 2
+[2020-09-22T15:08:46.520] [DEBUG] pinus - [connector-server-1 sessionService.js] session on [connector-server-1] is closed with session id: 1,uid:null,reason:1005
