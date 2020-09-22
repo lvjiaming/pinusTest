@@ -1,0 +1,529 @@
+[2020-09-21T14:00:57.392] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T14:00:57.503] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T14:00:57.504] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T14:00:57.513] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:00:57.562] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T14:00:57.565] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T14:00:57.565] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 169 ms
+[2020-09-21T14:04:29.717] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T14:04:29.821] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T14:04:29.838] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T14:04:29.855] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:04:29.916] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T14:04:29.927] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T14:04:29.928] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 207 ms
+[2020-09-21T14:05:20.965] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T14:05:21.068] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T14:05:21.069] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T14:05:21.090] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:05:21.149] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T14:05:21.151] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T14:05:21.152] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 176 ms
+[2020-09-21T14:12:11.498] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T14:12:11.568] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T14:12:11.568] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T14:12:11.578] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:12:11.640] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T14:12:11.642] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T14:12:11.643] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 142 ms
+[2020-09-21T14:13:26.290] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T14:13:26.383] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T14:13:26.384] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T14:13:26.391] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:13:26.482] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T14:13:26.485] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T14:13:26.485] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 192 ms
+[2020-09-21T14:14:29.596] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T14:14:29.684] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T14:14:29.686] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T14:14:29.709] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:14:29.774] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T14:14:29.776] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T14:14:29.776] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 177 ms
+[2020-09-21T14:22:43.921] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T14:22:43.991] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T14:22:43.993] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T14:22:44.007] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:22:44.062] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T14:22:44.065] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T14:22:44.066] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 142 ms
+[2020-09-21T14:33:44.503] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T14:33:44.634] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T14:33:44.635] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T14:33:44.646] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:33:44.700] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T14:33:44.707] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T14:33:44.707] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 200 ms
+[2020-09-21T14:38:26.002] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T14:38:26.077] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T14:38:26.078] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T14:38:26.101] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:38:26.158] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T14:38:26.185] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T14:38:26.186] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 181 ms
+[2020-09-21T14:55:48.822] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T14:55:48.905] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T14:55:48.905] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T14:55:48.927] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:55:49.002] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T14:55:49.005] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T14:55:49.005] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 180 ms
+[2020-09-21T14:57:52.996] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T14:57:53.127] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T14:57:53.128] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T14:57:53.137] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:57:53.220] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T14:57:53.223] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T14:57:53.223] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 224 ms
+[2020-09-21T14:58:49.647] [INFO] logger - [connector-server-2 console] connected
+[2020-09-21T15:02:53.081] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T15:02:53.216] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T15:02:53.216] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T15:02:53.226] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:02:53.298] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T15:02:53.301] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T15:02:53.301] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 217 ms
+[2020-09-21T15:03:47.437] [INFO] logger - [connector-server-2 console] connected
+[2020-09-21T15:05:59.821] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T15:05:59.903] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T15:05:59.903] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T15:05:59.919] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:05:59.979] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T15:05:59.985] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T15:05:59.986] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 162 ms
+[2020-09-21T15:06:17.490] [INFO] logger - [connector-server-2 console] connected
+[2020-09-21T15:10:22.180] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T15:10:22.289] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T15:10:22.295] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T15:10:22.306] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:10:22.400] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T15:10:22.402] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T15:10:22.403] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 219 ms
+[2020-09-21T15:11:59.374] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T15:11:59.497] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T15:11:59.498] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T15:11:59.526] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:11:59.582] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T15:11:59.584] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T15:11:59.585] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 208 ms
+[2020-09-21T15:12:13.989] [INFO] logger - [connector-server-2 console] connected
+[2020-09-21T15:12:26.407] [INFO] logger - [connector-server-2 console] connected
+[2020-09-21T15:25:13.966] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T15:25:14.055] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T15:25:14.055] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T15:25:14.074] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:25:14.129] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T15:25:14.131] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T15:25:14.132] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 161 ms
+[2020-09-21T15:26:29.666] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T15:26:29.750] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T15:26:29.751] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T15:26:29.785] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:26:29.832] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T15:26:29.834] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T15:26:29.834] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 166 ms
+[2020-09-21T15:28:49.255] [INFO] logger - [connector-server-2 console] connected
+[2020-09-21T15:28:57.304] [INFO] logger - [connector-server-2 console] connected
+[2020-09-21T15:36:07.326] [ERROR] pinus-rpc - [connector-server-2 mqtt-mailbox] mqtt rpc client connector-server-2 checkKeepAlive timeout from remote server game-server-1 for 20000 lastPing: 1600673737315 lastPong: 1600673737314Error: 
+    at Logger.pLogger.<computed> [as error] (E:\BaseProject\server\node_modules\pinus-logger\lib\logger.ts:70:34)
+    at MailBox.checkKeepAlive (E:\BaseProject\server\node_modules\pinus-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.ts:222:28)
+    at Timeout._onTimeout (E:\BaseProject\server\node_modules\pinus-rpc\lib\rpc-client\mailboxes\mqtt-mailbox.ts:207:18)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+[2020-09-21T15:53:31.638] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T15:53:31.806] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T15:53:31.807] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T15:53:31.814] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:53:31.891] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T15:53:31.894] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T15:53:31.894] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 253 ms
+[2020-09-21T15:54:23.097] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T15:54:23.227] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T15:54:23.228] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T15:54:23.239] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:54:23.323] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T15:54:23.325] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T15:54:23.326] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 226 ms
+[2020-09-21T15:57:54.865] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T15:57:54.959] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T15:57:54.961] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T15:57:54.990] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:57:55.097] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T15:57:55.104] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T15:57:55.105] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 237 ms
+[2020-09-21T15:58:09.689] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T15:58:09.786] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T15:58:09.787] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T15:58:09.795] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:58:09.859] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T15:58:09.862] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T15:58:09.862] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 170 ms
+[2020-09-21T16:40:50.938] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T16:40:51.018] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T16:40:51.019] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T16:40:51.040] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T16:40:51.111] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T16:40:51.114] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T16:40:51.115] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 174 ms
+[2020-09-21T16:57:03.768] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T16:57:03.894] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T16:57:03.894] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T16:57:03.901] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T16:57:03.974] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T16:57:03.976] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T16:57:03.977] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 205 ms
+[2020-09-21T16:57:36.067] [INFO] logger - [connector-server-2 console] 游戏服务器： [
+  {
+    main: 'E:\\BaseProject\\server\\dist\\app.js',
+    env: 'development',
+    id: 'game-server-1',
+    host: '127.0.0.1',
+    port: 8051,
+    args: '--inspect=20002',
+    serverType: 'game',
+    remoterPaths: [ [Object], [Object] ],
+    handlerPaths: [ 'E:\\BaseProject\\server\\dist\\app\\servers\\game\\handler' ],
+    pid: 10580
+  }
+]
+[2020-09-21T16:57:36.170] [INFO] logger - [connector-server-2 console] connected
+[2020-09-21T17:03:55.489] [INFO] logger - [connector-server-2 console] 游戏服务器： [
+  {
+    main: 'E:\\BaseProject\\server\\dist\\app.js',
+    env: 'development',
+    id: 'game-server-1',
+    host: '127.0.0.1',
+    port: 8051,
+    args: '--inspect=20002',
+    serverType: 'game',
+    remoterPaths: [ [Object], [Object] ],
+    handlerPaths: [ 'E:\\BaseProject\\server\\dist\\app\\servers\\game\\handler' ],
+    pid: 10580
+  }
+]
+[2020-09-21T17:04:04.453] [INFO] logger - [connector-server-2 console] 游戏服务器： [
+  {
+    main: 'E:\\BaseProject\\server\\dist\\app.js',
+    env: 'development',
+    id: 'game-server-1',
+    host: '127.0.0.1',
+    port: 8051,
+    args: '--inspect=20002',
+    serverType: 'game',
+    remoterPaths: [ [Object], [Object] ],
+    handlerPaths: [ 'E:\\BaseProject\\server\\dist\\app\\servers\\game\\handler' ],
+    pid: 10580
+  }
+]
+[2020-09-21T17:04:09.384] [INFO] logger - [connector-server-2 console] 游戏服务器： [
+  {
+    main: 'E:\\BaseProject\\server\\dist\\app.js',
+    env: 'development',
+    id: 'game-server-1',
+    host: '127.0.0.1',
+    port: 8051,
+    args: '--inspect=20002',
+    serverType: 'game',
+    remoterPaths: [ [Object], [Object] ],
+    handlerPaths: [ 'E:\\BaseProject\\server\\dist\\app\\servers\\game\\handler' ],
+    pid: 10580
+  }
+]
+[2020-09-21T17:04:22.831] [INFO] logger - [connector-server-2 console] connected
+[2020-09-21T17:04:31.630] [INFO] logger - [connector-server-2 console] 游戏服务器： [
+  {
+    main: 'E:\\BaseProject\\server\\dist\\app.js',
+    env: 'development',
+    id: 'game-server-1',
+    host: '127.0.0.1',
+    port: 8051,
+    args: '--inspect=20002',
+    serverType: 'game',
+    remoterPaths: [ [Object], [Object] ],
+    handlerPaths: [ 'E:\\BaseProject\\server\\dist\\app\\servers\\game\\handler' ],
+    pid: 10580
+  }
+]
+[2020-09-21T17:16:28.847] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T17:16:28.960] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T17:16:28.960] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T17:16:28.968] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T17:16:29.043] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T17:16:29.045] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T17:16:29.046] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 196 ms
+[2020-09-21T17:30:42.791] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T17:30:42.900] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T17:30:42.913] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T17:30:42.924] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T17:30:42.981] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T17:30:42.984] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T17:30:42.984] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 190 ms
+[2020-09-21T18:07:42.093] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T18:07:42.214] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T18:07:42.228] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T18:07:42.238] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T18:07:42.333] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T18:07:42.343] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T18:07:42.344] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 248 ms
+[2020-09-21T18:50:25.067] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-21T18:50:25.163] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-21T18:50:25.163] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-21T18:50:25.209] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T18:50:25.306] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-21T18:50:25.347] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-21T18:50:25.348] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 278 ms
+[2020-09-21T19:00:45.865] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T10:14:28.735] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T10:14:28.855] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T10:14:28.856] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T10:14:28.873] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T10:14:28.927] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T10:14:28.930] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T10:14:28.930] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 192 ms
+[2020-09-22T10:14:46.789] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T10:16:35.487] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T10:16:35.562] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T10:16:35.563] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T10:16:35.571] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T10:16:35.665] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T10:16:35.668] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T10:16:35.669] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 178 ms
+[2020-09-22T10:16:50.105] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T10:17:43.208] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T10:18:58.056] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T10:18:58.240] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T10:18:58.241] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T10:18:58.251] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T10:18:58.328] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T10:18:58.333] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T10:18:58.333] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 274 ms
+[2020-09-22T10:19:13.940] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T10:19:15.960] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T10:34:53.532] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T10:34:53.610] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T10:34:53.612] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T10:34:53.633] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T10:34:53.729] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T10:34:53.731] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T10:34:53.732] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 197 ms
+[2020-09-22T10:35:14.851] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T10:42:26.052] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T10:42:26.162] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T10:42:26.162] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T10:42:26.175] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T10:42:26.239] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T10:42:26.241] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T10:42:26.242] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 187 ms
+[2020-09-22T10:42:45.917] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T10:50:08.423] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T10:50:08.516] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T10:50:08.516] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T10:50:08.548] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T10:50:08.620] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T10:50:08.624] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T10:50:08.625] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 198 ms
+[2020-09-22T10:50:26.898] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T10:54:15.412] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T10:54:15.515] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T10:54:15.516] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T10:54:15.531] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T10:54:15.613] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T10:54:15.615] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T10:54:15.615] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 201 ms
+[2020-09-22T10:54:36.451] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T11:35:06.890] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T11:35:06.994] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T11:35:06.995] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T11:35:07.027] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:35:07.110] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T11:35:07.113] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T11:35:07.114] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 221 ms
+[2020-09-22T11:35:07.542] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T11:37:32.333] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T11:37:32.431] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T11:37:32.444] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T11:37:32.461] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:37:32.561] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T11:37:32.563] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T11:37:32.564] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 228 ms
+[2020-09-22T11:42:58.023] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T11:42:58.106] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T11:42:58.111] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T11:42:58.122] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:42:58.198] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T11:42:58.200] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T11:42:58.200] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 173 ms
+[2020-09-22T11:45:44.999] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T11:45:45.100] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T11:45:45.104] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T11:45:45.114] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:45:45.177] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T11:45:45.179] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T11:45:45.179] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 176 ms
+[2020-09-22T11:47:22.587] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T11:47:22.681] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T11:47:22.681] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T11:47:22.700] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:47:22.815] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T11:47:22.818] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T11:47:22.818] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 227 ms
+[2020-09-22T11:47:37.805] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T11:49:26.910] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T11:49:27.037] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T11:49:27.040] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T11:49:27.054] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:49:27.116] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T11:49:27.119] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T11:49:27.119] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 206 ms
+[2020-09-22T11:49:27.408] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T11:51:12.076] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T11:51:12.185] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T11:51:12.188] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T11:51:12.196] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:51:12.247] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T11:51:12.250] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T11:51:12.250] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 171 ms
+[2020-09-22T11:51:12.518] [ERROR] pinus - [connector-server-2 server.js] connector-server-2 fail to forward message:TypeError: Cannot read property 'msgRemote' of undefined
+    at doForward (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:432:44)
+    at dispatch (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:147:17)
+    at next (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:67:17)
+    at FilterService.beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:82:9)
+    at beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:340:12)
+    at Server.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:156:9)
+    at ServerComponent.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\components\server.ts:69:21)
+    at ConnectorComponent.handleMessage (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:439:21)
+    at HybridSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:327:18)
+    at HybridSocket.emit (events.js:315:20)
+    at handleData (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:45:12)
+    at Object.default_1 [as default] (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:56:9)
+    at WebSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\connectors\hybridsocket.ts:55:24)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (E:\BaseProject\server\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)Error: 
+    at Logger.pLogger.<computed> [as error] (E:\BaseProject\server\node_modules\pinus-logger\lib\logger.ts:70:34)
+    at doForward (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:451:20)
+    at dispatch (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:147:17)
+    at next (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:67:17)
+    at FilterService.beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:82:9)
+    at beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:340:12)
+    at Server.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:156:9)
+    at ServerComponent.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\components\server.ts:69:21)
+    at ConnectorComponent.handleMessage (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:439:21)
+    at HybridSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:327:18)
+    at HybridSocket.emit (events.js:315:20)
+    at handleData (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:45:12)
+    at Object.default_1 [as default] (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:56:9)
+    at WebSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\connectors\hybridsocket.ts:55:24)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (E:\BaseProject\server\node_modules\ws\lib\websocket.js:797:20)
+[2020-09-22T11:54:03.840] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T11:54:03.952] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T11:54:03.953] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T11:54:03.962] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:54:04.051] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T11:54:04.054] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T11:54:04.054] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 212 ms
+[2020-09-22T11:54:22.662] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T11:55:29.617] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T11:55:29.725] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T11:55:29.726] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T11:55:29.732] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:55:29.811] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T11:55:29.814] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T11:55:29.814] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 192 ms
+[2020-09-22T11:58:49.501] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T11:58:49.611] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T11:58:49.612] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T11:58:49.640] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:58:49.708] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T11:58:49.710] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T11:58:49.711] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 207 ms
+[2020-09-22T11:59:07.293] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T11:59:13.141] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T12:03:07.787] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T12:03:07.933] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T12:03:07.934] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T12:03:07.941] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T12:03:08.027] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T12:03:08.040] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T12:03:08.040] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 248 ms
+[2020-09-22T12:03:57.708] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T12:04:19.859] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T12:12:23.985] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T12:12:24.146] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T12:12:24.147] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T12:12:24.160] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T12:12:24.242] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T12:12:24.245] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T12:12:24.245] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 258 ms
+[2020-09-22T12:12:24.878] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T14:31:26.303] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T14:34:44.142] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T14:34:44.230] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T14:34:44.231] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T14:34:44.247] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T14:34:44.315] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T14:34:44.318] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T14:34:44.318] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 173 ms
+[2020-09-22T14:35:52.836] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T15:10:46.604] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T15:10:46.681] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T15:10:46.681] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T15:10:46.693] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T15:10:46.759] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T15:10:46.762] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T15:10:46.762] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 155 ms
+[2020-09-22T15:31:29.461] [INFO] logger - [connector-server-2 console] 这时候调用： [
+  {
+    main: 'E:\\BaseProject\\server\\dist\\app.js',
+    env: 'development',
+    id: 'hall-server-1',
+    host: '127.0.0.1',
+    port: 8050,
+    args: '--inspect=20001',
+    serverType: 'hall',
+    remoterPaths: [ [Object], [Object] ],
+    handlerPaths: [ 'E:\\BaseProject\\server\\dist\\app\\servers\\hall\\handler' ],
+    pid: 20216
+  }
+]
+[2020-09-22T15:31:29.509] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T15:32:17.586] [INFO] logger - [connector-server-2 console] 这时候调用： [
+  {
+    main: 'E:\\BaseProject\\server\\dist\\app.js',
+    env: 'development',
+    id: 'hall-server-1',
+    host: '127.0.0.1',
+    port: 8050,
+    args: '--inspect=20001',
+    serverType: 'hall',
+    remoterPaths: [ [Object], [Object] ],
+    handlerPaths: [ 'E:\\BaseProject\\server\\dist\\app\\servers\\hall\\handler' ],
+    pid: 20216
+  }
+]
+[2020-09-22T15:32:17.669] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T15:36:15.247] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T15:36:15.353] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T15:36:15.353] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T15:36:15.364] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T15:36:15.429] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T15:36:15.434] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T15:36:15.435] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 185 ms
+[2020-09-22T15:36:41.447] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T15:36:45.526] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T15:46:35.488] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T15:46:35.622] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T15:46:35.623] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T15:46:35.633] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T15:46:35.681] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T15:46:35.683] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T15:46:35.684] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 192 ms
+[2020-09-22T15:54:13.290] [INFO] logger - [connector-server-2 console] connected
+[2020-09-22T15:58:53.175] [INFO] pinus - [connector-server-2 application.js] application inited: "connector-server-2"
+[2020-09-22T15:58:53.250] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter before start...
+[2020-09-22T15:58:53.293] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter start...
+[2020-09-22T15:58:53.300] [INFO] pinus-admin - [connector-server-2 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T15:58:53.378] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" enter after start...
+[2020-09-22T15:58:53.381] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" finish start
+[2020-09-22T15:58:53.382] [INFO] pinus - [connector-server-2 application.js] "connector-server-2" startup in 204 ms

@@ -1,0 +1,25 @@
+{
+    "name": "test",
+    "version": "0.0.1",
+    "private": false,
+    "bin": {
+        "$": "./dist/bin/app.js"
+    },
+    "main": "./dist/app",
+    "scripts": {
+        "start": "npm run build && cd dist &&  node app",
+        "build": "node_modules/.bin/tsc"
+    },
+    "dependencies": {
+        "@types/bluebird": "^3.5.19",
+        "@types/node": "8.10.54",
+        "bluebird": "^3.7.2",
+        "pinus": "^1.4.10",
+        "reflect-metadata": "^0.1.13",
+        "source-map-support": "^0.5.19"
+    },
+    "devDependencies": {
+        "tslint": "5.20.1",
+        "typescript": "3.7.3"
+    }
+}

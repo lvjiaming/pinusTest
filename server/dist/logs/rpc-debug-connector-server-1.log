@@ -1,0 +1,656 @@
+[2020-09-21T14:00:57.392] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T14:00:57.516] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T14:00:57.517] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T14:00:57.526] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:00:57.569] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T14:00:57.572] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T14:00:57.572] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 177 ms
+[2020-09-21T14:04:29.805] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T14:04:29.892] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T14:04:29.900] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T14:04:29.909] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:04:29.998] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T14:04:30.014] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T14:04:30.015] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 207 ms
+[2020-09-21T14:05:20.624] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T14:05:20.723] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T14:05:20.759] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T14:05:20.769] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:05:20.941] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T14:05:20.944] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T14:05:20.945] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 318 ms
+[2020-09-21T14:12:11.359] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T14:12:11.439] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T14:12:11.440] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T14:12:11.474] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:12:11.536] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T14:12:11.539] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T14:12:11.540] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 178 ms
+[2020-09-21T14:13:26.132] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T14:13:26.250] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T14:13:26.251] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T14:13:26.258] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:13:26.310] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T14:13:26.319] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T14:13:26.319] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 185 ms
+[2020-09-21T14:14:29.704] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T14:14:29.773] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T14:14:29.774] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T14:14:29.788] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:14:29.869] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T14:14:29.872] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T14:14:29.872] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 165 ms
+[2020-09-21T14:22:43.714] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T14:22:43.786] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T14:22:43.787] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T14:22:43.860] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:22:43.944] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T14:22:43.947] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T14:22:43.947] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 229 ms
+[2020-09-21T14:33:44.491] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T14:33:44.584] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T14:33:44.584] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T14:33:44.618] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:33:44.669] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T14:33:44.672] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T14:33:44.672] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 178 ms
+[2020-09-21T14:38:26.002] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T14:38:26.066] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T14:38:26.067] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T14:38:26.101] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:38:26.151] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T14:38:26.154] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T14:38:26.154] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 149 ms
+[2020-09-21T14:39:05.500] [INFO] logger - [connector-server-1 console] connected
+[2020-09-21T14:55:48.873] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T14:55:48.953] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T14:55:48.953] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T14:55:48.974] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:55:49.036] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T14:55:49.040] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T14:55:49.040] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 165 ms
+[2020-09-21T14:57:52.862] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T14:57:52.948] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T14:57:52.949] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T14:57:52.984] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T14:57:53.064] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T14:57:53.066] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T14:57:53.067] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 203 ms
+[2020-09-21T14:58:24.534] [INFO] logger - [connector-server-1 console] connected
+[2020-09-21T15:02:53.082] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T15:02:53.213] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T15:02:53.214] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T15:02:53.223] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:02:53.276] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T15:02:53.279] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T15:02:53.279] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 195 ms
+[2020-09-21T15:05:59.744] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T15:05:59.840] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T15:05:59.841] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T15:05:59.865] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:05:59.923] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T15:05:59.925] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T15:05:59.926] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 179 ms
+[2020-09-21T15:10:21.887] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T15:10:21.977] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T15:10:21.978] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T15:10:22.053] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:10:22.153] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T15:10:22.155] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T15:10:22.155] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 266 ms
+[2020-09-21T15:10:50.818] [INFO] logger - [connector-server-1 console] 房卡信息： [
+  RowDataPacket {
+    UserID: 13,
+    Score: 0,
+    InsureScore: 0,
+    RoomCard: 0,
+    Currency: 0,
+    Revenue: 0,
+    WinCount: 0,
+    LostCount: 0,
+    DrawCount: 0,
+    FleeCount: 0,
+    LastEnterIP: '127.0.0.1'
+  }
+]
+[2020-09-21T15:10:51.098] [INFO] logger - [connector-server-1 console] connected
+[2020-09-21T15:11:59.198] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T15:11:59.274] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T15:11:59.275] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T15:11:59.312] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:11:59.419] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T15:11:59.425] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T15:11:59.426] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 225 ms
+[2020-09-21T15:25:13.804] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T15:25:13.880] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T15:25:13.881] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T15:25:13.893] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:25:13.992] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T15:25:13.995] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T15:25:13.995] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 188 ms
+[2020-09-21T15:26:29.714] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T15:26:29.791] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T15:26:29.792] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T15:26:29.819] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:26:29.892] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T15:26:29.894] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T15:26:29.894] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 178 ms
+[2020-09-21T15:27:19.380] [INFO] logger - [connector-server-1 console] connected
+[2020-09-21T15:28:22.197] [INFO] logger - [connector-server-1 console] connected
+[2020-09-21T15:53:31.450] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T15:53:31.560] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T15:53:31.560] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T15:53:31.593] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:53:31.673] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T15:53:31.676] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T15:53:31.676] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 223 ms
+[2020-09-21T15:53:31.922] [ERROR] pinus - [connector-server-1 server.js] connector-server-1 fail to forward message:TypeError: Cannot read property 'msgRemote' of undefined
+    at doForward (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:432:44)
+    at dispatch (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:147:17)
+    at next (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:67:17)
+    at FilterService.beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:82:9)
+    at beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:340:12)
+    at Server.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:156:9)
+    at ServerComponent.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\components\server.ts:69:21)
+    at ConnectorComponent.handleMessage (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:439:21)
+    at HybridSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:327:18)
+    at HybridSocket.emit (events.js:315:20)
+    at handleData (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:45:12)
+    at Object.default_1 [as default] (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:56:9)
+    at WebSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\connectors\hybridsocket.ts:55:24)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (E:\BaseProject\server\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)Error: 
+    at Logger.pLogger.<computed> [as error] (E:\BaseProject\server\node_modules\pinus-logger\lib\logger.ts:70:34)
+    at doForward (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:451:20)
+    at dispatch (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:147:17)
+    at next (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:67:17)
+    at FilterService.beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:82:9)
+    at beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:340:12)
+    at Server.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:156:9)
+    at ServerComponent.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\components\server.ts:69:21)
+    at ConnectorComponent.handleMessage (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:439:21)
+    at HybridSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:327:18)
+    at HybridSocket.emit (events.js:315:20)
+    at handleData (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:45:12)
+    at Object.default_1 [as default] (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:56:9)
+    at WebSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\connectors\hybridsocket.ts:55:24)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (E:\BaseProject\server\node_modules\ws\lib\websocket.js:797:20)
+[2020-09-21T15:54:23.073] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T15:54:23.151] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T15:54:23.154] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T15:54:23.170] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:54:23.255] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T15:54:23.258] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T15:54:23.259] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 184 ms
+[2020-09-21T15:54:46.388] [INFO] logger - [connector-server-1 console] connected
+[2020-09-21T15:57:54.763] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T15:57:54.856] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T15:57:54.857] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T15:57:54.901] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:57:55.000] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T15:57:55.003] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T15:57:55.004] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 235 ms
+[2020-09-21T15:57:55.204] [ERROR] pinus - [connector-server-1 server.js] connector-server-1 fail to forward message:TypeError: Cannot read property 'msgRemote' of undefined
+    at doForward (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:432:44)
+    at dispatch (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:147:17)
+    at next (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:67:17)
+    at FilterService.beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:82:9)
+    at beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:340:12)
+    at Server.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:156:9)
+    at ServerComponent.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\components\server.ts:69:21)
+    at ConnectorComponent.handleMessage (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:439:21)
+    at HybridSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:327:18)
+    at HybridSocket.emit (events.js:315:20)
+    at handleData (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:45:12)
+    at Object.default_1 [as default] (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:56:9)
+    at WebSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\connectors\hybridsocket.ts:55:24)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (E:\BaseProject\server\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)Error: 
+    at Logger.pLogger.<computed> [as error] (E:\BaseProject\server\node_modules\pinus-logger\lib\logger.ts:70:34)
+    at doForward (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:451:20)
+    at dispatch (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:147:17)
+    at next (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:67:17)
+    at FilterService.beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:82:9)
+    at beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:340:12)
+    at Server.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:156:9)
+    at ServerComponent.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\components\server.ts:69:21)
+    at ConnectorComponent.handleMessage (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:439:21)
+    at HybridSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:327:18)
+    at HybridSocket.emit (events.js:315:20)
+    at handleData (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:45:12)
+    at Object.default_1 [as default] (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:56:9)
+    at WebSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\connectors\hybridsocket.ts:55:24)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (E:\BaseProject\server\node_modules\ws\lib\websocket.js:797:20)
+[2020-09-21T15:58:09.421] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T15:58:09.537] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T15:58:09.564] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T15:58:09.574] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T15:58:09.660] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T15:58:09.664] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T15:58:09.665] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 241 ms
+[2020-09-21T15:58:39.874] [INFO] logger - [connector-server-1 console] connected
+[2020-09-21T16:40:50.763] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T16:40:50.849] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T16:40:50.850] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T16:40:50.891] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T16:40:50.954] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T16:40:50.957] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T16:40:50.957] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 190 ms
+[2020-09-21T16:48:25.601] [INFO] logger - [connector-server-1 console] connected
+[2020-09-21T16:57:03.752] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T16:57:03.845] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T16:57:03.846] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T16:57:03.854] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T16:57:03.918] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T16:57:03.923] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T16:57:03.924] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 162 ms
+[2020-09-21T17:03:35.375] [INFO] logger - [connector-server-1 console] 游戏服务器： [
+  {
+    main: 'E:\\BaseProject\\server\\dist\\app.js',
+    env: 'development',
+    id: 'game-server-1',
+    host: '127.0.0.1',
+    port: 8051,
+    args: '--inspect=20002',
+    serverType: 'game',
+    remoterPaths: [ [Object], [Object] ],
+    handlerPaths: [ 'E:\\BaseProject\\server\\dist\\app\\servers\\game\\handler' ],
+    pid: 10580
+  }
+]
+[2020-09-21T17:03:35.426] [INFO] logger - [connector-server-1 console] connected
+[2020-09-21T17:03:59.352] [INFO] logger - [connector-server-1 console] 游戏服务器： [
+  {
+    main: 'E:\\BaseProject\\server\\dist\\app.js',
+    env: 'development',
+    id: 'game-server-1',
+    host: '127.0.0.1',
+    port: 8051,
+    args: '--inspect=20002',
+    serverType: 'game',
+    remoterPaths: [ [Object], [Object] ],
+    handlerPaths: [ 'E:\\BaseProject\\server\\dist\\app\\servers\\game\\handler' ],
+    pid: 10580
+  }
+]
+[2020-09-21T17:04:03.806] [INFO] logger - [connector-server-1 console] 游戏服务器： [
+  {
+    main: 'E:\\BaseProject\\server\\dist\\app.js',
+    env: 'development',
+    id: 'game-server-1',
+    host: '127.0.0.1',
+    port: 8051,
+    args: '--inspect=20002',
+    serverType: 'game',
+    remoterPaths: [ [Object], [Object] ],
+    handlerPaths: [ 'E:\\BaseProject\\server\\dist\\app\\servers\\game\\handler' ],
+    pid: 10580
+  }
+]
+[2020-09-21T17:04:11.592] [INFO] logger - [connector-server-1 console] 游戏服务器： [
+  {
+    main: 'E:\\BaseProject\\server\\dist\\app.js',
+    env: 'development',
+    id: 'game-server-1',
+    host: '127.0.0.1',
+    port: 8051,
+    args: '--inspect=20002',
+    serverType: 'game',
+    remoterPaths: [ [Object], [Object] ],
+    handlerPaths: [ 'E:\\BaseProject\\server\\dist\\app\\servers\\game\\handler' ],
+    pid: 10580
+  }
+]
+[2020-09-21T17:04:21.703] [INFO] logger - [connector-server-1 console] connected
+[2020-09-21T17:13:51.036] [WARN] pinus - [connector-server-1 connector.js] try to response to a notify: "hall.hallHandler.getReplayALL"
+[2020-09-21T17:16:28.641] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T17:16:28.712] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T17:16:28.713] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T17:16:28.747] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T17:16:28.819] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T17:16:28.823] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T17:16:28.823] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 179 ms
+[2020-09-21T17:30:42.659] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T17:30:42.751] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T17:30:42.752] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T17:30:42.767] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T17:30:42.845] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T17:30:42.848] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T17:30:42.849] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 187 ms
+[2020-09-21T17:31:05.561] [INFO] logger - [connector-server-1 console] connected
+[2020-09-21T17:44:28.850] [INFO] logger - [connector-server-1 console] connected
+[2020-09-21T18:07:42.031] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T18:07:42.137] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T18:07:42.184] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T18:07:42.196] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T18:07:42.259] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T18:07:42.261] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T18:07:42.262] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 227 ms
+[2020-09-21T18:07:42.813] [INFO] logger - [connector-server-1 console] connected
+[2020-09-21T18:50:25.059] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-21T18:50:25.145] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-21T18:50:25.146] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-21T18:50:25.173] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-21T18:50:25.290] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-21T18:50:25.293] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-21T18:50:25.293] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 231 ms
+[2020-09-22T10:14:28.734] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T10:14:28.839] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T10:14:28.859] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T10:14:28.872] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T10:14:28.915] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T10:14:28.917] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T10:14:28.918] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 181 ms
+[2020-09-22T10:16:35.314] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T10:16:35.401] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T10:16:35.402] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T10:16:35.424] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T10:16:35.495] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T10:16:35.497] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T10:16:35.498] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 181 ms
+[2020-09-22T10:18:57.847] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T10:18:57.936] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T10:18:57.967] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T10:18:57.975] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T10:18:58.027] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T10:18:58.037] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T10:18:58.038] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 188 ms
+[2020-09-22T10:34:53.426] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T10:34:53.518] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T10:34:53.519] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T10:34:53.544] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T10:34:53.596] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T10:34:53.599] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T10:34:53.599] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 170 ms
+[2020-09-22T10:35:23.083] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T10:35:30.701] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T10:42:25.778] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T10:42:25.910] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T10:42:25.911] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T10:42:25.945] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T10:42:26.017] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T10:42:26.020] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T10:42:26.021] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 238 ms
+[2020-09-22T10:42:52.154] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T10:50:08.387] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T10:50:08.482] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T10:50:08.517] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T10:50:08.535] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T10:50:08.660] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T10:50:08.663] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T10:50:08.663] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 272 ms
+[2020-09-22T10:54:15.782] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T10:54:15.882] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T10:54:15.883] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T10:54:15.915] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T10:54:16.033] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T10:54:16.035] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T10:54:16.036] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 252 ms
+[2020-09-22T11:35:06.752] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T11:35:06.840] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T11:35:06.843] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T11:35:06.867] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:35:06.935] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T11:35:06.939] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T11:35:06.939] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 184 ms
+[2020-09-22T11:35:27.189] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T11:35:31.576] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T11:37:32.181] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T11:37:32.287] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T11:37:32.288] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T11:37:32.315] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:37:32.378] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T11:37:32.382] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T11:37:32.383] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 200 ms
+[2020-09-22T11:37:32.832] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T11:42:58.796] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T11:42:58.864] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T11:42:58.865] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T11:42:58.873] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:42:58.954] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T11:42:58.957] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T11:42:58.958] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 159 ms
+[2020-09-22T11:43:20.743] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T11:45:44.834] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T11:45:44.916] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T11:45:44.969] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T11:45:44.977] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:45:45.064] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T11:45:45.067] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T11:45:45.068] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 230 ms
+[2020-09-22T11:45:45.440] [ERROR] pinus - [connector-server-1 server.js] connector-server-1 fail to forward message:TypeError: Cannot read property 'msgRemote' of undefined
+    at doForward (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:432:44)
+    at dispatch (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:147:17)
+    at next (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:67:17)
+    at FilterService.beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:82:9)
+    at beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:340:12)
+    at Server.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:156:9)
+    at ServerComponent.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\components\server.ts:69:21)
+    at ConnectorComponent.handleMessage (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:439:21)
+    at HybridSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:327:18)
+    at HybridSocket.emit (events.js:315:20)
+    at handleData (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:45:12)
+    at Object.default_1 [as default] (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:56:9)
+    at WebSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\connectors\hybridsocket.ts:55:24)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (E:\BaseProject\server\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)Error: 
+    at Logger.pLogger.<computed> [as error] (E:\BaseProject\server\node_modules\pinus-logger\lib\logger.ts:70:34)
+    at doForward (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:451:20)
+    at dispatch (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:147:17)
+    at next (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:67:17)
+    at FilterService.beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:82:9)
+    at beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:340:12)
+    at Server.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:156:9)
+    at ServerComponent.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\components\server.ts:69:21)
+    at ConnectorComponent.handleMessage (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:439:21)
+    at HybridSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:327:18)
+    at HybridSocket.emit (events.js:315:20)
+    at handleData (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:45:12)
+    at Object.default_1 [as default] (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:56:9)
+    at WebSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\connectors\hybridsocket.ts:55:24)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (E:\BaseProject\server\node_modules\ws\lib\websocket.js:797:20)
+[2020-09-22T11:46:07.935] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T11:46:18.393] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T11:47:22.587] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T11:47:22.687] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T11:47:22.688] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T11:47:22.728] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:47:22.822] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T11:47:22.828] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T11:47:22.828] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 237 ms
+[2020-09-22T11:47:23.481] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T11:49:26.791] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T11:49:26.889] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T11:49:26.890] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T11:49:26.903] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:49:26.977] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T11:49:26.980] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T11:49:26.981] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 187 ms
+[2020-09-22T11:51:12.077] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T11:51:12.180] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T11:51:12.181] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T11:51:12.224] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:51:12.269] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T11:51:12.280] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T11:51:12.281] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 200 ms
+[2020-09-22T11:51:29.649] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T11:51:38.426] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T11:54:03.576] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T11:54:03.696] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T11:54:03.724] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T11:54:03.737] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:54:03.812] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T11:54:03.815] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T11:54:03.815] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 236 ms
+[2020-09-22T11:54:04.145] [ERROR] pinus - [connector-server-1 server.js] connector-server-1 fail to forward message:TypeError: Cannot read property 'msgRemote' of undefined
+    at doForward (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:432:44)
+    at dispatch (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:147:17)
+    at next (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:67:17)
+    at FilterService.beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:82:9)
+    at beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:340:12)
+    at Server.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:156:9)
+    at ServerComponent.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\components\server.ts:69:21)
+    at ConnectorComponent.handleMessage (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:439:21)
+    at HybridSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:327:18)
+    at HybridSocket.emit (events.js:315:20)
+    at handleData (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:45:12)
+    at Object.default_1 [as default] (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:56:9)
+    at WebSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\connectors\hybridsocket.ts:55:24)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (E:\BaseProject\server\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)Error: 
+    at Logger.pLogger.<computed> [as error] (E:\BaseProject\server\node_modules\pinus-logger\lib\logger.ts:70:34)
+    at doForward (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:451:20)
+    at dispatch (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:147:17)
+    at next (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:67:17)
+    at FilterService.beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:82:9)
+    at beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:340:12)
+    at Server.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:156:9)
+    at ServerComponent.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\components\server.ts:69:21)
+    at ConnectorComponent.handleMessage (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:439:21)
+    at HybridSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:327:18)
+    at HybridSocket.emit (events.js:315:20)
+    at handleData (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:45:12)
+    at Object.default_1 [as default] (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:56:9)
+    at WebSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\connectors\hybridsocket.ts:55:24)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (E:\BaseProject\server\node_modules\ws\lib\websocket.js:797:20)
+[2020-09-22T11:54:32.996] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T11:54:38.999] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T11:55:29.400] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T11:55:29.489] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T11:55:29.490] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T11:55:29.546] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:55:29.598] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T11:55:29.601] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T11:55:29.601] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 198 ms
+[2020-09-22T11:55:49.262] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T11:56:04.383] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T11:58:49.430] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T11:58:49.534] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T11:58:49.535] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T11:58:49.542] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T11:58:49.635] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T11:58:49.638] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T11:58:49.638] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 205 ms
+[2020-09-22T11:58:49.887] [ERROR] pinus - [connector-server-1 server.js] connector-server-1 fail to forward message:TypeError: Cannot read property 'msgRemote' of undefined
+    at doForward (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:432:44)
+    at dispatch (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:147:17)
+    at next (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:67:17)
+    at FilterService.beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:82:9)
+    at beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:340:12)
+    at Server.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:156:9)
+    at ServerComponent.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\components\server.ts:69:21)
+    at ConnectorComponent.handleMessage (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:439:21)
+    at HybridSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:327:18)
+    at HybridSocket.emit (events.js:315:20)
+    at handleData (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:45:12)
+    at Object.default_1 [as default] (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:56:9)
+    at WebSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\connectors\hybridsocket.ts:55:24)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (E:\BaseProject\server\node_modules\ws\lib\websocket.js:797:20)
+    at Receiver.emit (events.js:315:20)Error: 
+    at Logger.pLogger.<computed> [as error] (E:\BaseProject\server\node_modules\pinus-logger\lib\logger.ts:70:34)
+    at doForward (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:451:20)
+    at dispatch (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:147:17)
+    at next (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:67:17)
+    at FilterService.beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\common\service\filterService.ts:82:9)
+    at beforeFilter (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:340:12)
+    at Server.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\server\server.ts:156:9)
+    at ServerComponent.globalHandle (E:\BaseProject\server\node_modules\pinus\lib\components\server.ts:69:21)
+    at ConnectorComponent.handleMessage (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:439:21)
+    at HybridSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\components\connector.ts:327:18)
+    at HybridSocket.emit (events.js:315:20)
+    at handleData (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:45:12)
+    at Object.default_1 [as default] (E:\BaseProject\server\node_modules\pinus\lib\connectors\common\handler.ts:56:9)
+    at WebSocket.<anonymous> (E:\BaseProject\server\node_modules\pinus\lib\connectors\hybridsocket.ts:55:24)
+    at WebSocket.emit (events.js:315:20)
+    at Receiver.receiverOnMessage (E:\BaseProject\server\node_modules\ws\lib\websocket.js:797:20)
+[2020-09-22T12:03:07.613] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T12:03:07.719] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T12:03:07.732] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T12:03:07.740] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T12:03:07.820] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T12:03:07.823] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T12:03:07.823] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 207 ms
+[2020-09-22T12:12:23.895] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T12:12:23.975] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T12:12:24.014] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T12:12:24.022] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T12:12:24.169] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T12:12:24.173] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T12:12:24.173] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 274 ms
+[2020-09-22T12:20:26.593] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T12:21:06.363] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T14:34:44.663] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T14:34:44.731] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T14:34:44.731] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T14:34:44.740] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T14:34:44.831] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T14:34:44.834] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T14:34:44.834] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 168 ms
+[2020-09-22T15:10:46.503] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T15:10:46.580] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T15:10:46.581] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T15:10:46.591] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T15:10:46.666] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T15:10:46.671] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T15:10:46.672] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 166 ms
+[2020-09-22T15:11:51.465] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T15:12:13.503] [INFO] logger - [connector-server-1 console] 这时候调用： [
+  {
+    main: 'E:\\BaseProject\\server\\dist\\app.js',
+    env: 'development',
+    id: 'hall-server-1',
+    host: '127.0.0.1',
+    port: 8050,
+    args: '--inspect=20001',
+    serverType: 'hall',
+    remoterPaths: [ [Object], [Object] ],
+    handlerPaths: [ 'E:\\BaseProject\\server\\dist\\app\\servers\\hall\\handler' ],
+    pid: 20216
+  }
+]
+[2020-09-22T15:12:13.616] [INFO] logger - [connector-server-1 console] connected
+[2020-09-22T15:31:15.204] [INFO] logger - [connector-server-1 console] 这时候调用： [
+  {
+    main: 'E:\\BaseProject\\server\\dist\\app.js',
+    env: 'development',
+    id: 'hall-server-1',
+    host: '127.0.0.1',
+    port: 8050,
+    args: '--inspect=20001',
+    serverType: 'hall',
+    remoterPaths: [ [Object], [Object] ],
+    handlerPaths: [ 'E:\\BaseProject\\server\\dist\\app\\servers\\hall\\handler' ],
+    pid: 20216
+  }
+]
+[2020-09-22T15:36:15.056] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T15:36:15.176] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T15:36:15.177] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T15:36:15.184] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T15:36:15.278] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T15:36:15.280] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T15:36:15.281] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 222 ms
+[2020-09-22T15:46:35.717] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T15:46:35.821] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T15:46:35.821] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T15:46:35.833] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T15:46:35.919] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T15:46:35.925] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T15:46:35.926] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 206 ms
+[2020-09-22T15:58:53.161] [INFO] pinus - [connector-server-1 application.js] application inited: "connector-server-1"
+[2020-09-22T15:58:53.240] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter before start...
+[2020-09-22T15:58:53.242] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter start...
+[2020-09-22T15:58:53.277] [INFO] pinus-admin - [connector-server-1 consoleService.js] try to connect master: "connector", "127.0.0.1", 3005
+[2020-09-22T15:58:53.343] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" enter after start...
+[2020-09-22T15:58:53.346] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" finish start
+[2020-09-22T15:58:53.346] [INFO] pinus - [connector-server-1 application.js] "connector-server-1" startup in 183 ms
+[2020-09-22T15:59:14.723] [INFO] logger - [connector-server-1 console] connected

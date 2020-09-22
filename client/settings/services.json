@@ -1,0 +1,20 @@
+{
+	"game": {
+		"name": "UNKNOW GAME",
+		"appid": "UNKNOW"
+	},
+	"configs": [
+		{
+			"appid": "659582713",
+			"services": [
+				{
+					"service_id": "242",
+					"enable": false
+				}
+			]
+		},
+		{
+			"appid": "UNKNOW"
+		}
+	]
+}

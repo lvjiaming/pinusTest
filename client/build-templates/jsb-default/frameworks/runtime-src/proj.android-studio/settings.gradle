@@ -1,0 +1,6 @@
+include ':libcocos2dx', ':game', ':instantapp'
+project(':libcocos2dx').projectDir = new File(settingsDir, '../../cocos2d-x/cocos/platform/android/libcocos2dx')
+include ':LeYouBaoQing'
+project(':LeYouBaoQing').projectDir = new File(settingsDir, 'app')
+include(':push')
+project(':push').projectDir = new File(settingsDir, 'push')

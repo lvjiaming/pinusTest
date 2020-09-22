@@ -1,0 +1,49 @@
+{
+    "name": "csgame",
+    "version": "1.4.4",
+    "private": false,
+    "main": "./dist/app",
+    "scripts": {
+        "build": "tsc",
+        "start": "yarn run build && cd dist &&  node app",
+        "dev": "node tsrun.js",
+        "test": "yarn run build",
+        "cov": "nyc mocha",
+        "ci": "yarn run test",
+        "gen-api-ref": "node ../../../node_modules/typedoc/bin/typedoc --mode file --hideGenerator --excludeExternals --ignoreCompilerErrors --out ../../../run/site/public/api-reference/pinus-loader lib/"
+    },
+    "engines": {
+        "node": ">=8.5"
+    },
+    "dependencies": {
+        "@types/async": "^3.2.3",
+        "@types/bluebird": "^3.5.19",
+        "@types/crc": "^3.4.0",
+        "@types/ffmpeg": "^1.0.0",
+        "@types/fluent-ffmpeg": "^2.1.14",
+        "@types/node": "8.10.54",
+        "@types/request": "^2.48.5",
+        "@types/uuid": "^8.0.0",
+        "@types/ws": "^7.2.4",
+        "bluebird": "^3.7.2",
+        "crc": "^3.8.0",
+        "crypto": "^1.0.1",
+        "express": "^4.17.1",
+        "fluent-ffmpeg": "^2.1.2",
+        "fs": "^0.0.1-security",
+        "http": "0.0.1-security",
+        "mysql": "^2.18.1",
+        "pinus": "^1.4.10",
+        "pinus-robot": "^1.4.8",
+        "pinus-robot-plugin": "^1.4.8",
+        "reflect-metadata": "^0.1.13",
+        "request": "^2.88.2",
+        "source-map-support": "^0.5.19",
+        "ts-node": "^8.10.1"
+    },
+    "devDependencies": {
+        "@types/express": "^4.17.6",
+        "tslint": "^5.9.1",
+        "typescript": "3.7.3"
+    }
+}

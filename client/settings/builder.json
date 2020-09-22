@@ -1,0 +1,63 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "http://192.168.0.53:7456/preview-android-instant/",
+    "host": "",
+    "packageName": "com.changsheng.lybq",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": true,
+  "excludeScenes": [
+    "56913063-a394-4f21-a438-d8827c6dd448"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "com.changsheng.lybq",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "76756098-550e-4847-9c86-cf02759d89eb",
+  "title": "LeYouBaoQing",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "7001fe36-417c-45",
+  "zipCompressJs": true,
+  "android": {
+    "packageName": "com.chuangsheng.lybq"
+  },
+  "ios": {
+    "packageName": "com.changsheng.lybq"
+  },
+  "mac": {
+    "packageName": "com.changsheng.lybq"
+  },
+  "win32": {}
+}

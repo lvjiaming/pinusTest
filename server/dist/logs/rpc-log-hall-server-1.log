@@ -1,0 +1,593 @@
+[2020-09-21T14:00:57.578] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T14:00:57.584] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T14:00:57.585] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T14:00:57.619] [ERROR] logger - [hall-server-1 console] hall-server-1Error: 
+    at Logger.pLogger.<computed> [as error] (E:\BaseProject\server\node_modules\pinus-logger\lib\logger.ts:70:34)
+    at process.<anonymous> (E:\BaseProject\server\preload.ts:33:17)
+    at process.emit (events.js:315:20)
+    at process._fatalException (internal/process/execution.js:165:25) uncaughtException Caught exception:  Error: Cannot find module 'mysql'
+Require stack:
+- E:\BaseProject\server\dist\app\repositories\database.js
+- E:\BaseProject\server\dist\app\repositories\accountDB.js
+- E:\BaseProject\server\dist\app\repositories\dbManager.js
+- E:\BaseProject\server\dist\app\servers\hall\remote\hallRemote.js
+- E:\BaseProject\server\node_modules\pinus-loader\dist\lib\loader.js
+- E:\BaseProject\server\node_modules\pinus-loader\dist\index.js
+- E:\BaseProject\server\node_modules\pinus\dist\lib\components\dictionary.js
+- E:\BaseProject\server\node_modules\pinus\dist\lib\pinus.js
+- E:\BaseProject\server\node_modules\pinus\dist\lib\index.js
+- E:\BaseProject\server\dist\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:966:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:842:27)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (E:\BaseProject\server\app\repositories\database.ts:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (E:\BaseProject\server\app\repositories\accountDB.ts:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'E:\\BaseProject\\server\\dist\\app\\repositories\\database.js',
+    'E:\\BaseProject\\server\\dist\\app\\repositories\\accountDB.js',
+    'E:\\BaseProject\\server\\dist\\app\\repositories\\dbManager.js',
+    'E:\\BaseProject\\server\\dist\\app\\servers\\hall\\remote\\hallRemote.js',
+    'E:\\BaseProject\\server\\node_modules\\pinus-loader\\dist\\lib\\loader.js',
+    'E:\\BaseProject\\server\\node_modules\\pinus-loader\\dist\\index.js',
+    'E:\\BaseProject\\server\\node_modules\\pinus\\dist\\lib\\components\\dictionary.js',
+    'E:\\BaseProject\\server\\node_modules\\pinus\\dist\\lib\\pinus.js',
+    'E:\\BaseProject\\server\\node_modules\\pinus\\dist\\lib\\index.js',
+    'E:\\BaseProject\\server\\dist\\app.js'
+  ]
+}
+[2020-09-21T14:04:29.952] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T14:04:29.960] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T14:04:29.961] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T14:04:29.999] [ERROR] logger - [hall-server-1 console] hall-server-1Error: 
+    at Logger.pLogger.<computed> [as error] (E:\BaseProject\server\node_modules\pinus-logger\lib\logger.ts:70:34)
+    at process.<anonymous> (E:\BaseProject\server\preload.ts:33:17)
+    at process.emit (events.js:315:20)
+    at process._fatalException (internal/process/execution.js:165:25) uncaughtException Caught exception:  Error: Cannot find module 'mysql'
+Require stack:
+- E:\BaseProject\server\dist\app\repositories\database.js
+- E:\BaseProject\server\dist\app\repositories\accountDB.js
+- E:\BaseProject\server\dist\app\repositories\dbManager.js
+- E:\BaseProject\server\dist\app\servers\hall\remote\hallRemote.js
+- E:\BaseProject\server\node_modules\pinus-loader\dist\lib\loader.js
+- E:\BaseProject\server\node_modules\pinus-loader\dist\index.js
+- E:\BaseProject\server\node_modules\pinus\dist\lib\components\dictionary.js
+- E:\BaseProject\server\node_modules\pinus\dist\lib\pinus.js
+- E:\BaseProject\server\node_modules\pinus\dist\lib\index.js
+- E:\BaseProject\server\dist\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:966:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:842:27)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (E:\BaseProject\server\app\repositories\database.ts:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (E:\BaseProject\server\app\repositories\accountDB.ts:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'E:\\BaseProject\\server\\dist\\app\\repositories\\database.js',
+    'E:\\BaseProject\\server\\dist\\app\\repositories\\accountDB.js',
+    'E:\\BaseProject\\server\\dist\\app\\repositories\\dbManager.js',
+    'E:\\BaseProject\\server\\dist\\app\\servers\\hall\\remote\\hallRemote.js',
+    'E:\\BaseProject\\server\\node_modules\\pinus-loader\\dist\\lib\\loader.js',
+    'E:\\BaseProject\\server\\node_modules\\pinus-loader\\dist\\index.js',
+    'E:\\BaseProject\\server\\node_modules\\pinus\\dist\\lib\\components\\dictionary.js',
+    'E:\\BaseProject\\server\\node_modules\\pinus\\dist\\lib\\pinus.js',
+    'E:\\BaseProject\\server\\node_modules\\pinus\\dist\\lib\\index.js',
+    'E:\\BaseProject\\server\\dist\\app.js'
+  ]
+}
+[2020-09-21T14:05:20.962] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T14:05:20.968] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T14:05:20.968] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T14:05:21.012] [ERROR] logger - [hall-server-1 console] hall-server-1Error: 
+    at Logger.pLogger.<computed> [as error] (E:\BaseProject\server\node_modules\pinus-logger\lib\logger.ts:70:34)
+    at process.<anonymous> (E:\BaseProject\server\preload.ts:33:17)
+    at process.emit (events.js:315:20)
+    at process._fatalException (internal/process/execution.js:165:25) uncaughtException Caught exception:  Error: Cannot find module 'mysql'
+Require stack:
+- E:\BaseProject\server\dist\app\repositories\database.js
+- E:\BaseProject\server\dist\app\repositories\accountDB.js
+- E:\BaseProject\server\dist\app\repositories\dbManager.js
+- E:\BaseProject\server\dist\app\servers\hall\remote\hallRemote.js
+- E:\BaseProject\server\node_modules\pinus-loader\dist\lib\loader.js
+- E:\BaseProject\server\node_modules\pinus-loader\dist\index.js
+- E:\BaseProject\server\node_modules\pinus\dist\lib\components\dictionary.js
+- E:\BaseProject\server\node_modules\pinus\dist\lib\pinus.js
+- E:\BaseProject\server\node_modules\pinus\dist\lib\index.js
+- E:\BaseProject\server\dist\app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:966:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:842:27)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (E:\BaseProject\server\app\repositories\database.ts:1:15)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Module.require (internal/modules/cjs/loader.js:1026:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (E:\BaseProject\server\app\repositories\accountDB.ts:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'E:\\BaseProject\\server\\dist\\app\\repositories\\database.js',
+    'E:\\BaseProject\\server\\dist\\app\\repositories\\accountDB.js',
+    'E:\\BaseProject\\server\\dist\\app\\repositories\\dbManager.js',
+    'E:\\BaseProject\\server\\dist\\app\\servers\\hall\\remote\\hallRemote.js',
+    'E:\\BaseProject\\server\\node_modules\\pinus-loader\\dist\\lib\\loader.js',
+    'E:\\BaseProject\\server\\node_modules\\pinus-loader\\dist\\index.js',
+    'E:\\BaseProject\\server\\node_modules\\pinus\\dist\\lib\\components\\dictionary.js',
+    'E:\\BaseProject\\server\\node_modules\\pinus\\dist\\lib\\pinus.js',
+    'E:\\BaseProject\\server\\node_modules\\pinus\\dist\\lib\\index.js',
+    'E:\\BaseProject\\server\\dist\\app.js'
+  ]
+}
+[2020-09-21T14:12:11.686] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T14:12:11.692] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T14:12:11.692] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T14:12:11.712] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T14:12:11.758] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T14:12:11.759] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T14:12:11.760] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 71 ms
+[2020-09-21T14:13:26.327] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T14:13:26.333] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T14:13:26.333] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T14:13:26.353] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T14:13:26.435] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T14:13:26.436] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T14:13:26.437] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 107 ms
+[2020-09-21T14:14:29.523] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T14:14:29.529] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T14:14:29.530] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T14:14:29.549] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T14:14:29.663] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T14:14:29.664] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T14:14:29.665] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 139 ms
+[2020-09-21T14:22:43.786] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T14:22:43.791] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T14:22:43.792] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T14:22:43.811] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T14:22:43.858] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T14:22:43.874] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T14:22:43.874] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 86 ms
+[2020-09-21T14:33:44.705] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T14:33:44.711] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T14:33:44.711] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T14:33:44.730] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T14:33:44.785] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T14:33:44.802] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T14:33:44.803] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 95 ms
+[2020-09-21T14:38:26.065] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T14:38:26.070] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T14:38:26.071] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T14:38:26.090] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T14:38:26.187] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T14:38:26.192] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T14:38:26.192] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 124 ms
+[2020-09-21T14:39:05.379] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T14:55:48.872] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T14:55:48.877] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T14:55:48.878] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T14:55:48.898] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T14:55:48.960] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T14:55:48.962] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T14:55:48.962] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 87 ms
+[2020-09-21T14:57:53.028] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T14:57:53.033] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T14:57:53.034] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T14:57:53.053] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T14:57:53.117] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T14:57:53.118] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T14:57:53.119] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 88 ms
+[2020-09-21T14:58:24.418] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T14:58:49.641] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T15:02:53.115] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T15:02:53.121] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T15:02:53.122] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T15:02:53.144] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T15:02:53.211] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T15:02:53.212] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T15:02:53.213] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 95 ms
+[2020-09-21T15:03:47.319] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T15:05:59.941] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T15:05:59.946] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T15:05:59.947] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T15:05:59.967] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T15:06:00.040] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T15:06:00.041] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T15:06:00.042] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 99 ms
+[2020-09-21T15:06:17.363] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T15:10:22.208] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T15:10:22.214] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T15:10:22.215] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T15:10:22.234] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T15:10:22.343] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T15:10:22.345] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T15:10:22.345] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 134 ms
+[2020-09-21T15:10:50.980] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T15:10:51.095] [INFO] logger - [hall-server-1 console] 房卡信息： [
+  RowDataPacket {
+    UserID: 13,
+    Score: 0,
+    InsureScore: 0,
+    RoomCard: 0,
+    Currency: 0,
+    Revenue: 0,
+    WinCount: 0,
+    LostCount: 0,
+    DrawCount: 0,
+    FleeCount: 0,
+    LastEnterIP: '127.0.0.1'
+  }
+]
+[2020-09-21T15:11:59.605] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T15:11:59.611] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T15:11:59.612] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T15:11:59.639] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T15:11:59.715] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T15:11:59.716] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T15:11:59.717] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 109 ms
+[2020-09-21T15:12:13.880] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T15:12:26.295] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T15:25:13.908] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T15:25:13.913] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T15:25:13.914] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T15:25:13.934] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T15:25:14.041] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T15:25:14.043] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T15:25:14.043] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 133 ms
+[2020-09-21T15:26:29.853] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T15:26:29.861] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T15:26:29.861] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T15:26:29.907] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T15:26:29.974] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T15:26:29.976] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T15:26:29.976] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 118 ms
+[2020-09-21T15:28:20.427] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T15:28:22.086] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T15:28:26.078] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T15:28:49.245] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T15:53:31.937] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T15:53:31.945] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T15:53:31.946] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T15:53:31.979] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T15:53:32.025] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T15:53:32.026] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T15:53:32.027] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 85 ms
+[2020-09-21T15:54:23.117] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T15:54:23.124] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T15:54:23.125] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T15:54:23.146] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T15:54:23.217] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T15:54:23.261] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T15:54:23.262] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 141 ms
+[2020-09-21T15:57:54.865] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T15:57:54.871] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T15:57:54.872] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T15:57:54.893] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T15:57:54.941] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T15:57:54.942] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T15:57:54.942] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 74 ms
+[2020-09-21T15:58:09.546] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T15:58:09.554] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T15:58:09.554] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T15:58:09.574] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T15:58:09.670] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T15:58:09.672] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T15:58:09.674] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 124 ms
+[2020-09-21T16:16:42.072] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T16:40:50.799] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T16:40:50.805] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T16:40:50.806] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T16:40:50.827] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T16:40:50.897] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T16:40:50.899] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T16:40:50.899] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 97 ms
+[2020-09-21T16:48:26.983] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T16:57:03.877] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T16:57:03.882] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T16:57:03.883] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T16:57:03.926] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T16:57:04.008] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T16:57:04.009] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T16:57:04.015] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 136 ms
+[2020-09-21T17:04:21.554] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T17:04:22.825] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T17:04:31.405] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T17:16:28.923] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T17:16:28.929] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T17:16:28.930] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T17:16:28.958] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T17:16:29.021] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T17:16:29.026] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T17:16:29.027] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 100 ms
+[2020-09-21T17:30:43.018] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T17:30:43.025] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T17:30:43.026] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T17:30:43.047] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T17:30:43.095] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T17:30:43.097] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T17:30:43.097] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 76 ms
+[2020-09-21T17:31:05.438] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T17:44:32.521] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T17:44:42.589] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T18:07:42.059] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T18:07:42.065] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T18:07:42.065] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T18:07:42.088] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T18:07:42.166] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T18:07:42.169] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T18:07:42.170] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 108 ms
+[2020-09-21T18:07:56.795] [INFO] logger - [hall-server-1 console] connected
+[2020-09-21T18:50:25.038] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-21T18:50:25.043] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-21T18:50:25.044] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-21T18:50:25.065] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-21T18:50:25.126] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-21T18:50:25.127] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-21T18:50:25.128] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 88 ms
+[2020-09-22T10:14:28.940] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T10:14:28.954] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T10:14:28.955] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T10:14:29.029] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T10:14:29.087] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T10:14:29.088] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T10:14:29.089] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 142 ms
+[2020-09-22T10:16:35.332] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T10:16:35.337] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T10:16:35.338] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T10:16:35.368] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T10:16:35.412] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T10:16:35.413] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T10:16:35.414] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 79 ms
+[2020-09-22T10:17:09.224] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T10:18:07.847] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T10:18:58.394] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T10:18:58.401] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T10:18:58.402] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T10:18:58.437] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T10:18:58.508] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T10:18:58.509] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T10:18:58.509] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 112 ms
+[2020-09-22T10:19:13.822] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T10:19:15.832] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T10:34:53.634] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T10:34:53.642] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T10:34:53.642] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T10:34:53.695] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T10:34:53.749] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T10:34:53.750] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T10:34:53.750] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 111 ms
+[2020-09-22T10:35:29.590] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T10:35:30.592] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T10:42:26.625] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T10:42:26.633] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T10:42:26.634] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T10:42:26.687] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T10:42:26.776] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T10:42:26.777] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T10:42:26.778] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 150 ms
+[2020-09-22T10:50:08.387] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T10:50:08.394] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T10:50:08.395] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T10:50:08.456] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T10:50:08.528] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T10:50:08.529] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T10:50:08.530] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 139 ms
+[2020-09-22T10:54:15.603] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T10:54:15.612] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T10:54:15.612] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T10:54:15.657] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T10:54:15.695] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T10:54:15.696] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T10:54:15.697] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 88 ms
+[2020-09-22T11:35:06.930] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T11:35:06.938] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T11:35:06.939] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T11:35:06.968] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T11:35:07.076] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T11:35:07.078] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T11:35:07.079] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 143 ms
+[2020-09-22T11:35:13.937] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:35:27.095] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:37:32.456] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T11:37:32.462] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T11:37:32.463] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T11:37:32.485] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T11:37:32.584] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T11:37:32.585] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T11:37:32.586] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 126 ms
+[2020-09-22T11:37:36.886] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:42:58.085] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T11:42:58.090] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T11:42:58.092] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T11:42:58.149] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T11:42:58.251] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T11:42:58.252] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T11:42:58.252] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 164 ms
+[2020-09-22T11:45:44.879] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T11:45:44.885] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T11:45:44.886] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T11:45:44.947] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T11:45:45.027] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T11:45:45.028] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T11:45:45.030] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 148 ms
+[2020-09-22T11:45:54.450] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:47:22.689] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T11:47:22.696] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T11:47:22.697] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T11:47:22.717] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T11:47:22.764] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T11:47:22.765] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T11:47:22.765] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 72 ms
+[2020-09-22T11:47:25.008] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:49:27.046] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T11:49:27.053] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T11:49:27.054] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T11:49:27.076] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T11:49:27.154] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T11:49:27.156] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T11:49:27.156] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 105 ms
+[2020-09-22T11:49:31.813] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:51:12.275] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T11:51:12.281] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T11:51:12.281] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T11:51:12.306] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T11:51:12.374] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T11:51:12.375] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T11:51:12.376] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 98 ms
+[2020-09-22T11:51:16.415] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:51:38.324] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:54:03.522] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T11:54:03.528] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T11:54:03.528] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T11:54:03.549] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T11:54:03.628] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T11:54:03.629] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T11:54:03.629] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 104 ms
+[2020-09-22T11:54:08.929] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:54:38.922] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:55:29.616] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T11:55:29.624] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T11:55:29.625] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T11:55:29.662] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T11:55:29.711] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T11:55:29.712] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T11:55:29.712] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 91 ms
+[2020-09-22T11:56:02.959] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:56:04.276] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:56:06.538] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:58:49.667] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T11:58:49.673] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T11:58:49.673] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T11:58:49.695] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T11:58:49.795] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T11:58:49.799] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T11:58:49.799] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 129 ms
+[2020-09-22T11:58:54.609] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:59:13.037] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:59:14.944] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T11:59:32.833] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T12:03:07.889] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T12:03:07.896] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T12:03:07.897] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T12:03:07.920] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T12:03:07.974] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T12:03:07.976] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T12:03:07.977] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 84 ms
+[2020-09-22T12:04:19.714] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T12:04:26.615] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T12:12:23.985] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T12:12:23.991] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T12:12:23.991] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T12:12:24.057] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T12:12:24.139] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T12:12:24.140] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T12:12:24.140] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 152 ms
+[2020-09-22T12:12:24.746] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T12:20:26.583] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T12:21:09.567] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T14:31:26.207] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T14:34:44.331] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T14:34:44.339] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T14:34:44.340] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T14:34:44.378] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T14:34:44.460] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T14:34:44.461] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T14:34:44.461] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 126 ms
+[2020-09-22T15:02:43.779] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T15:10:46.557] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T15:10:46.563] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T15:10:46.563] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T15:10:46.581] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T15:10:46.631] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T15:10:46.632] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T15:10:46.632] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 72 ms
+[2020-09-22T15:12:12.300] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T15:12:13.510] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T15:31:29.500] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T15:32:17.614] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T15:36:15.321] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T15:36:15.328] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T15:36:15.329] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T15:36:15.360] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T15:36:15.467] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T15:36:15.469] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T15:36:15.469] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 144 ms
+[2020-09-22T15:36:44.283] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T15:36:45.405] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T15:36:54.423] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T15:36:54.438] [INFO] logger - [hall-server-1 console] 房间信息： {
+  UserID: 13,
+  ClubKey: 0,
+  KindID: 52200,
+  ServerRules: 1064,
+  GameRules: [ 2729 ]
+}
+[2020-09-22T15:42:54.245] [INFO] logger - [hall-server-1 console] 房间信息： {
+  UserID: 13,
+  ClubKey: 0,
+  KindID: 52200,
+  ServerRules: 1096,
+  GameRules: [ 3922 ]
+}
+[2020-09-22T15:43:12.758] [INFO] logger - [hall-server-1 console] 房间信息： {
+  UserID: 13,
+  ClubKey: 0,
+  KindID: 52200,
+  ServerRules: 1096,
+  GameRules: [ 338 ]
+}
+[2020-09-22T15:43:32.300] [INFO] logger - [hall-server-1 console] 房间信息： {
+  UserID: 13,
+  ClubKey: 0,
+  KindID: 52200,
+  ServerRules: 1096,
+  GameRules: [ 210 ]
+}
+[2020-09-22T15:46:04.945] [INFO] logger - [hall-server-1 console] 房间信息： {
+  UserID: 13,
+  ClubKey: 0,
+  KindID: 52200,
+  ServerRules: 1096,
+  GameRules: [ 210 ]
+}
+[2020-09-22T15:46:35.680] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T15:46:35.686] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T15:46:35.686] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T15:46:35.727] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T15:46:35.814] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T15:46:35.815] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T15:46:35.815] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 132 ms
+[2020-09-22T15:54:13.731] [INFO] logger - [hall-server-1 console] connected
+[2020-09-22T15:58:53.183] [INFO] pinus - [hall-server-1 application.js] application inited: "hall-server-1"
+[2020-09-22T15:58:53.190] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter before start...
+[2020-09-22T15:58:53.190] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter start...
+[2020-09-22T15:58:53.233] [INFO] pinus-admin - [hall-server-1 consoleService.js] try to connect master: "hall", "127.0.0.1", 3005
+[2020-09-22T15:58:53.307] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" enter after start...
+[2020-09-22T15:58:53.308] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" finish start
+[2020-09-22T15:58:53.310] [INFO] pinus - [hall-server-1 application.js] "hall-server-1" startup in 124 ms
+[2020-09-22T16:06:02.569] [INFO] logger - [hall-server-1 console] connected

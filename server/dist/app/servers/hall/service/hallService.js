@@ -1,0 +1,107 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.HallService = void 0;
+const config_1 = require("../../../../config/config");
+const dbManager_1 = require("../../../repositories/dbManager");
+const dispatcher_1 = require("../../../util/dispatcher");
+const response_1 = require("../../../util/response");
+class HallService {
+    //获取滚动公告
+    static async getRollNotice() {
+        let notices = await dbManager_1.DBManager.get().systemDB.getNotice(0);
+        if (!notices || notices.length == 0)
+            return response_1.Response.ERROR('暂无滚动公告内容。');
+        return response_1.Response.OK({
+            Content: notices[0].NoticeContent
+        });
+    }
+    static async getGameRecord(ret) {
+        let serverID = [];
+        ret.forEach((row) => serverID.push(row.ServiceID));
+        let scoreInfo = [];
+        if (ret.length > 0) {
+            scoreInfo = await dbManager_1.DBManager.get().gameDB.getDrawInfoUser(serverID);
+        }
+        //玩家分数根据房间分组
+        let user = {};
+        scoreInfo.forEach((row) => {
+            if (user[row.ServiceID] == null) {
+                user[row.ServiceID] = [];
+            }
+            user[row.ServiceID].push({
+                userID: row.UserID,
+                score: row.Score
+            });
+        });
+        ret.forEach((row) => {
+            row.user = user[row.ServiceID];
+            if (row.StartTime) {
+                row.StartTime = row.StartTime.fmt('yyyy-MM-dd hh:mm:ss');
+            }
+        });
+        return response_1.Response.OK(ret);
+    }
+    static async createRoom(msg, app) {
+        // 校验后台是否开启此游戏
+        let ret = await dbManager_1.DBManager.get().gameDB.getGameOption(msg.KindID);
+        // 校验服务器是否开启
+        let servers = app.getServersByType('game');
+        if (!servers || servers.length === 0)
+            return response_1.Response.ERROR('游戏服务未启动!');
+        if (!ret || !ret.IsOpen) {
+            return response_1.Response.ERROR('游戏暂未开放!');
+        }
+        // 校验是否有此游戏
+        let tableSink = require(`../../../game/${msg.KindID}/tableSink`).CTableSink;
+        if (!tableSink)
+            return response_1.Response.ERROR('没有找到游戏文件');
+        // 校验玩家
+        let userInfo = await dbManager_1.DBManager.get().accountDB.getAccountsInfoByUserID(msg.UserID);
+        if (!userInfo) {
+            return response_1.Response.ERROR('玩家信息异常!');
+        }
+        // 消耗
+        if (msg.ServerRules & (config_1.SERVER_RULE.CREATE_ROOMCARD | config_1.SERVER_RULE.CREATE_GOLD)) {
+            let scoreInfo;
+            if (0 != msg.ClubKey) {
+                let clubInfo = await dbManager_1.DBManager.get().clubDB.getClubInfoByKey(msg.ClubKey);
+                if (!clubInfo)
+                    return response_1.Response.ERROR('俱乐部不存在!');
+                scoreInfo = await dbManager_1.DBManager.get().accountDB.getScoreInfo(clubInfo.MasterID);
+            }
+            else {
+                scoreInfo = await dbManager_1.DBManager.get().accountDB.getScoreInfo(msg.UserID);
+            }
+            //消耗房卡
+            if (msg.ServerRules & config_1.SERVER_RULE.CREATE_ROOMCARD) {
+                let needCard = config_1.getSpend(msg.KindID, msg.GameRules, msg.ServerRules);
+                if (scoreInfo.RoomCard > needCard) {
+                    await dbManager_1.DBManager.get().accountDB.addRoomCardAndRecord(scoreInfo.UserID, -needCard);
+                    app.rpc.hall.hallRemote.updateUserInfo.toServer(dispatcher_1.dispatch(scoreInfo.UserID + '', app.getServersByType('hall')).id, scoreInfo.UserID);
+                }
+                else {
+                    return response_1.Response.ERROR('房卡不足!');
+                }
+            }
+        }
+        // debug模式 生成连续房间号
+        let rand = app.get('env') == 'development' ? 0 : 1;
+        // 生成房间表
+        let roomInfo = await dbManager_1.DBManager.get().gameDB.createRoom(msg.KindID, msg.ServerRules, JSON.stringify(msg.GameRules), msg.ClubKey, msg.UserID, rand);
+        // 分配服务器
+        var server = dispatcher_1.dispatch(roomInfo.ID + '', servers);
+        await dbManager_1.DBManager.get().gameDB.updateServerID(roomInfo.RoomID, server.id);
+        roomInfo.ServerID = server.id;
+        await app.rpc.game.gameRemote.setRoomInfo.toServer(server.id, roomInfo.RoomID, roomInfo.KindID);
+        if (msg.ClubKey) {
+            await app.rpc.club.clubRemote.updateRoom.toServer(dispatcher_1.dispatch(msg.ClubKey + '', app.getServersByType('club')).id, msg.ClubKey);
+        }
+        return response_1.Response.OK({
+            serverID: server.id,
+            userInfo: userInfo,
+            roomInfo: roomInfo
+        });
+    }
+}
+exports.HallService = HallService;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaGFsbFNlcnZpY2UuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi8uLi9hcHAvc2VydmVycy9oYWxsL3NlcnZpY2UvaGFsbFNlcnZpY2UudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7O0FBQ0Esc0RBQWtFO0FBQ2xFLCtEQUE0RDtBQUM1RCx5REFBb0Q7QUFDcEQscURBQWtEO0FBSWxELE1BQWEsV0FBVztJQUNwQixRQUFRO0lBQ0QsTUFBTSxDQUFDLEtBQUssQ0FBQyxhQUFhO1FBQzdCLElBQUksT0FBTyxHQUFHLE1BQU0scUJBQVMsQ0FBQyxHQUFHLEVBQUUsQ0FBQyxRQUFRLENBQUMsU0FBUyxDQUFDLENBQUMsQ0FBQyxDQUFDO1FBQzFELElBQUksQ0FBQyxPQUFPLElBQUksT0FBTyxDQUFDLE1BQU0sSUFBSSxDQUFDO1lBQy9CLE9BQU8sbUJBQVEsQ0FBQyxLQUFLLENBQUMsV0FBVyxDQUFDLENBQUM7UUFFdkMsT0FBTyxtQkFBUSxDQUFDLEVBQUUsQ0FBQztZQUNmLE9BQU8sRUFBRSxPQUFPLENBQUMsQ0FBQyxDQUFDLENBQUMsYUFBYTtTQUNwQyxDQUFDLENBQUM7SUFDUCxDQUFDO0lBRU0sTUFBTSxDQUFDLEtBQUssQ0FBQyxhQUFhLENBQUMsR0FBVTtRQUN4QyxJQUFJLFFBQVEsR0FBYSxFQUFFLENBQUM7UUFDNUIsR0FBRyxDQUFDLE9BQU8sQ0FBQyxDQUFDLEdBQVEsRUFBRSxFQUFFLENBQUMsUUFBUSxDQUFDLElBQUksQ0FBQyxHQUFHLENBQUMsU0FBUyxDQUFDLENBQUMsQ0FBQztRQUN4RCxJQUFJLFNBQVMsR0FBVSxFQUFFLENBQUM7UUFDMUIsSUFBSSxHQUFHLENBQUMsTUFBTSxHQUFHLENBQUMsRUFBRTtZQUNoQixTQUFTLEdBQUcsTUFBTSxxQkFBUyxDQUFDLEdBQUcsRUFBRSxDQUFDLE1BQU0sQ0FBQyxlQUFlLENBQUMsUUFBUSxDQUFDLENBQUM7U0FDdEU7UUFDRCxZQUFZO1FBQ1osSUFBSSxJQUFJ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

@@ -1,0 +1,54 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.ClubRemote = void 0;
+const dbManager_1 = require("./../../../repositories/dbManager");
+function default_1(app) {
+    return new ClubRemote(app);
+}
+exports.default = default_1;
+class ClubRemote {
+    constructor(app) {
+        this.app = app;
+    }
+    add(clubKey, uid, sid) {
+        let channel = this.app.get('channelService').getChannel(clubKey + '', true);
+        if (!!channel) {
+            if (!channel.getMember(uid))
+                channel.add(uid, sid);
+        }
+    }
+    async updateRoom(clubKey) {
+        let channel = this.app.get('channelService').getChannel(clubKey + '');
+        if (!!channel) {
+            let roomInfo = await dbManager_1.DBManager.get().clubDB.getClubRoom(clubKey);
+            for (let info of roomInfo) {
+                let ret = await this.app.rpc.game.gameRemote.getSitUser.toServer((info.ServerID), (info.RoomID));
+                info.users = ret ? ret : [];
+            }
+            console.log('onUpdateRoom');
+            channel.pushMessage('onUpdateRoom', { clubKey: clubKey, roomInfo: roomInfo });
+        }
+    }
+    async updateRequire(clubKey) {
+        let channel = this.app.get('channelService').getChannel(clubKey + '');
+        if (!!channel) {
+            let require = await dbManager_1.DBManager.get().clubDB.getRequiredMembers(clubKey);
+            channel.pushMessage('onUpdateRequire', { clubKey: clubKey, require: require });
+        }
+    }
+    async updateRoomInfo(clubKey, roomInfo, users) {
+        let channel = this.app.get('channelService').getChannel(clubKey + '');
+        if (!!channel) {
+            roomInfo.users = users;
+            channel.pushMessage('onUpdateRoomInfo', roomInfo);
+        }
+    }
+    async leave(uid, sid, clubKey) {
+        let channel = this.app.get('channelService').getChannel(clubKey + '');
+        if (!!channel) {
+            channel.leave(uid, sid);
+        }
+    }
+}
+exports.ClubRemote = ClubRemote;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY2x1YlJlbW90ZS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uLy4uL2FwcC9zZXJ2ZXJzL2NsdWIvcmVtb3RlL2NsdWJSZW1vdGUudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7O0FBQ0EsaUVBQThEO0FBRzlELG1CQUF5QixHQUFnQjtJQUNyQyxPQUFPLElBQUksVUFBVSxDQUFDLEdBQUcsQ0FBQyxDQUFDO0FBQy9CLENBQUM7QUFGRCw0QkFFQztBQUVELE1BQWEsVUFBVTtJQUVuQixZQUFvQixHQUFnQjtRQUFoQixRQUFHLEdBQUgsR0FBRyxDQUFhO0lBQ3BDLENBQUM7SUFFRCxHQUFHLENBQUMsT0FBZSxFQUFFLEdBQVcsRUFBRSxHQUFXO1FBQ3pDLElBQUksT0FBTyxHQUFHLElBQUksQ0FBQyxHQUFHLENBQUMsR0FBRyxDQUFDLGdCQUFnQixDQUFDLENBQUMsVUFBVSxDQUFDLE9BQU8sR0FBRyxFQUFFLEVBQUUsSUFBSSxDQUFDLENBQUM7UUFDNUUsSUFBSSxDQUFDLENBQUMsT0FBTyxFQUFFO1lBQ1gsSUFBSSxDQUFDLE9BQU8sQ0FBQyxTQUFTLENBQUMsR0FBRyxDQUFDO2dCQUN2QixPQUFPLENBQUMsR0FBRyxDQUFDLEdBQUcsRUFBRSxHQUFHLENBQUMsQ0FBQztTQUM3QjtJQUNMLENBQUM7SUFFRCxLQUFLLENBQUMsVUFBVSxDQUFDLE9BQWU7UUFDNUIsSUFBSSxPQUFPLEdBQUcsSUFBSSxDQUFDLEdBQUcsQ0FBQyxHQUFHLENBQUMsZ0JBQWdCLENBQUMsQ0FBQyxVQUFVLENBQUMsT0FBTyxHQUFHLEVBQUUsQ0FBQyxDQUFDO1FBQ3RFLElBQUksQ0FBQyxDQUFDLE9BQU8sRUFBRTtZQUNYLElBQUksUUFBUSxHQUFHLE1BQU0scUJBQVMsQ0FBQyxHQUFHLEVBQUUsQ0FBQyxNQUFNLENBQUMsV0FBVyxDQUFDLE9BQU8sQ0FBQyxDQUFDO1lBQ2pFLEtBQUssSUFBSSxJQUFJLElBQUksUUFBUSxFQUFFO2dCQUN2QixJQUFJLEdBQUcsR0FBRyxNQUFNLElBQUksQ0FBQyxHQUFHLENBQUMsR0FBRyxDQUFDLElBQUksQ0FBQyxVQUFVLENBQUMsVUFBVSxDQUFDLFFBQVEsQ0FBUyxDQUFDLElBQUksQ0FBQyxRQUFRLENBQUMsRUFBTyxDQUFDLElBQUksQ0FBQyxNQUFNLENBQUMsQ0FBQyxDQUFDO2dCQUM5RyxJQUFJLENBQUMsS0FBSyxHQUFHLEdBQUcsQ0FBQyxDQUFDLENBQUMsR0FBRyxDQUFDLENBQUMsQ0FBQyxFQUFFLENBQUM7YUFDL0I7WUFDRCxPQUFPLENBQUMsR0FBRyxDQUFDLGNBQWMsQ0FBQyxDQUFDO1lBQzVCLE9BQU8sQ0FBQyxXQUFXLENBQUMsY0FBYyxFQUFFLEVBQUMsT0FBTyxFQUFFLE9BQU8sRUFBRSxRQUFRLEVBQUUsUUFBUSxFQUFDLENBQUMsQ0FBQztTQUMvRTtJQUNMLENBQUM7SUFFRCxLQUFLLENBQUMsYUFBYSxDQUFDLE9BQWU7UUFDL0IsSUFBSSxPQUFPLEdBQUcsSUFBSSxDQUFDLEdBQUcsQ0FBQyxHQUFHLENBQUMsZ0JBQWdCLENBQUMsQ0FBQyxVQUFVLENBQUMsT0FBTyxHQUFHLEVBQUUsQ0FBQyxDQUFDO1FBQ3RFLElBQUksQ0FBQyxDQUFDLE9BQU8sRUFBRTtZQUNYLElBQUksT0FBTyxHQUFHLE1BQU0scUJBQVMsQ0FBQyxHQUFHLEVBQUUsQ0FBQyxNQUFNLENBQUMsa0JBQWtCLENBQUMsT0FBTyxDQUFDLENBQUM7WUFDdkUsT0FBTyxDQUFDLFdBQVcsQ0FBQyxpQkFBaUIsRUFBRSxFQUFDLE9BQU8sRUFBRSxPQUFPLEVBQUUsT0FBTyxFQUFFLE9BQU8sRUFBQyxDQUFDLENBQUM7U0FDaEY7SUFDTCxDQUFDO0lBRUQsS0FBSyxDQUFDLGNBQWMsQ0FBQyxPQUFlLEVBQUUsUUFBYSxFQUFFLEtBQVU7UUFDM0QsSUFBSSxPQUFPLEdBQUcsSUFBSSxDQUFDLEdBQUcsQ0FBQyxHQUFHLENBQUMsZ0JBQWdCLENBQUMsQ0FBQyxVQUFVLENBQUMsT0FBTyxHQUFHLEVBQUUsQ0FBQyxDQUFDO1FBQ3RFLElBQUksQ0FBQyxDQUFDLE9BQU8sRUFBRTtZQUNYLFFBQVEsQ0FBQyxLQUFLLEdBQUcsS0FBSyxDQUFDO1lBQ3ZCLE9BQU8sQ0FBQyxXQUFXLENBQUMsa0JBQWtCLEVBQUUsUUFBUSxDQUFDLENBQUM7U0FDckQ7SUFDTCxDQUFDO0lBRU0sS0FBSyxDQUFDLEtBQUssQ0FBQyxHQUFXLEVBQUUsR0FBVyxFQUFFLE9BQWU7UUFDeEQsSUFBSSxPQUFPLEdBQUcsSUFBSSxDQUFDLEdBQUcsQ0FBQyxHQUFHLENBQUMsZ0JBQWdCLENBQUMsQ0FBQyxVQUFVLENBQUMsT0FBTyxHQUFHLEVBQUUsQ0FBQyxDQUFDO1FBQ3RFLElBQUksQ0FBQyxDQUFDLE9BQU8sRUFBRTtZQUNYLE9BQU8sQ0FBQyxLQUFLLENBQUMsR0FBRyxFQUFFLEdBQUcsQ0FBQyxDQUFDO1NBQzNCO0lBQ0wsQ0FBQztDQUNKO0FBaERELGdDQWdEQyJ9
